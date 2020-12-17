@@ -1,1 +1,2 @@
-image: centos
+image:
+  file: .gitpod.Dockerfile
