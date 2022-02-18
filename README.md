@@ -1,6 +1,7 @@
 # HTTP server made from scratch using C++
 
 This server is for learning about sockets and TCP and HTTP implementations
+
 Currently it serves static html content
 
 # Steps to run this code
